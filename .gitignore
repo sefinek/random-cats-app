@@ -1,0 +1,11 @@
+.vs
+
+*.txt
+*.cache
+*.user
+*.pfx
+
+packages
+
+Random cats/bin
+Random cats/obj
